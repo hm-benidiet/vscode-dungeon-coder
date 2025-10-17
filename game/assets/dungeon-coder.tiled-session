@@ -1,0 +1,95 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tilesets/characters_16x16_spritesheet_no_bkg.json",
+    "expandedProjectPaths": [
+        ".",
+        "tilesets",
+        "sprites",
+        "levels"
+    ],
+    "fileStates": {
+        "levels/level1.json": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 4,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 201.125,
+                "y": 123.375
+            }
+        },
+        "levels/level2.json": {
+            "expandedObjectLayers": [
+                10,
+                11
+            ],
+            "scale": 3,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 105.16666666666669,
+                "y": 177.5
+            }
+        },
+        "levels/level3.json": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 213.25,
+                "y": 177.25
+            }
+        },
+        "tilesets/characters_16x16_spritesheet_no_bkg.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tilesets/tiles_dungeon_v1.2_16x16.json": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "tilesets/tiles_dungeon_v1.2_16x32.json": {
+            "scaleInDock": 4,
+            "scaleInEditor": 3
+        },
+        "tilesets/tiles_dungeon_v1.2_32x32.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tilesets/tiles_dungeon_v1.2_48x32.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        }
+    },
+    "last.imagePath": "/home/benedikt/teaching/muc.dai/computational-thinking/praktikum/uebungen/tiled_data_loader/assets/images",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "levels/level1.json",
+        "tilesets/tiles_dungeon_v1.2_16x32.json",
+        "levels/level2.json",
+        "tilesets/characters_16x16_spritesheet_no_bkg.json"
+    ],
+    "project": "dungeon-coder.tiled-project",
+    "property.type": "object",
+    "recentFiles": [
+        "levels/level1.json",
+        "tilesets/tiles_dungeon_v1.2_16x32.json",
+        "levels/level2.json",
+        "tilesets/characters_16x16_spritesheet_no_bkg.json",
+        "tilesets/tiles_dungeon_v1.2_48x32.json",
+        "tilesets/tiles_dungeon_v1.2_32x32.json",
+        "tilesets/tiles_dungeon_v1.2_16x16.json"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
