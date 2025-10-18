@@ -182,11 +182,17 @@
                  "height":16,
                  "id":58,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"controls",
+                         "type":"object",
+                         "value":60
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
-                 "x":144,
+                 "x":144.25,
                  "y":48
                 }, 
                 {
